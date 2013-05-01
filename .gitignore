@@ -1,0 +1,3 @@
+.svnignore
+*.svn-base
+.svn/*
